@@ -1,2 +1,14 @@
 /Users/ivanbackky/vsprojects/javaprojects/tz_sdek/task-time-tracker/src/main/java/com/tasktracker/TaskTrackerApiApplication.java
-/Users/ivanbackky/vsprojects/javaprojects/tz_sdek/task-time-tracker/src/main/java/com/tasktracker/controller/HealthCheckController.java
+/Users/ivanbackky/vsprojects/javaprojects/tz_sdek/task-time-tracker/src/main/java/com/tasktracker/controller/TaskController.java
+/Users/ivanbackky/vsprojects/javaprojects/tz_sdek/task-time-tracker/src/main/java/com/tasktracker/controller/TimeRecordController.java
+/Users/ivanbackky/vsprojects/javaprojects/tz_sdek/task-time-tracker/src/main/java/com/tasktracker/dto/CreateTaskRequest.java
+/Users/ivanbackky/vsprojects/javaprojects/tz_sdek/task-time-tracker/src/main/java/com/tasktracker/exception/TaskNotFoundException.java
+/Users/ivanbackky/vsprojects/javaprojects/tz_sdek/task-time-tracker/src/main/java/com/tasktracker/mapper/TaskMapper.java
+/Users/ivanbackky/vsprojects/javaprojects/tz_sdek/task-time-tracker/src/main/java/com/tasktracker/mapper/TimeRecordMapper.java
+/Users/ivanbackky/vsprojects/javaprojects/tz_sdek/task-time-tracker/src/main/java/com/tasktracker/model/Task.java
+/Users/ivanbackky/vsprojects/javaprojects/tz_sdek/task-time-tracker/src/main/java/com/tasktracker/model/TaskStatus.java
+/Users/ivanbackky/vsprojects/javaprojects/tz_sdek/task-time-tracker/src/main/java/com/tasktracker/model/TimeRecord.java
+/Users/ivanbackky/vsprojects/javaprojects/tz_sdek/task-time-tracker/src/main/java/com/tasktracker/service/TaskService.java
+/Users/ivanbackky/vsprojects/javaprojects/tz_sdek/task-time-tracker/src/main/java/com/tasktracker/service/TaskServiceImpl.java
+/Users/ivanbackky/vsprojects/javaprojects/tz_sdek/task-time-tracker/src/main/java/com/tasktracker/service/TimeRecordService.java
+/Users/ivanbackky/vsprojects/javaprojects/tz_sdek/task-time-tracker/src/main/java/com/tasktracker/service/TimeRecordServiceImpl.java

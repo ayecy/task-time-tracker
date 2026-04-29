@@ -1,2 +1,14 @@
-com/tasktracker/controller/HealthCheckController.class
+com/tasktracker/service/TaskServiceImpl.class
+com/tasktracker/service/TimeRecordService.class
 com/tasktracker/TaskTrackerApiApplication.class
+com/tasktracker/dto/CreateTaskRequest.class
+com/tasktracker/service/TimeRecordServiceImpl.class
+com/tasktracker/controller/TimeRecordController.class
+com/tasktracker/model/TaskStatus.class
+com/tasktracker/model/Task.class
+com/tasktracker/model/TimeRecord.class
+com/tasktracker/controller/TaskController.class
+com/tasktracker/exception/TaskNotFoundException.class
+com/tasktracker/service/TaskService.class
+com/tasktracker/mapper/TaskMapper.class
+com/tasktracker/mapper/TimeRecordMapper.class
