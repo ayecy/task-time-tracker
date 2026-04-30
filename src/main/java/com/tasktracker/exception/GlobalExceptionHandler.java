@@ -10,7 +10,6 @@ import org.springframework.web.bind.MethodArgumentNotValidException;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 
-// Эта аннотация говорит Spring: "Применяй этот класс ко всем контроллерам"
 @RestControllerAdvice 
 public class GlobalExceptionHandler {
 
@@ -41,7 +40,7 @@ public class GlobalExceptionHandler {
         return ResponseEntity.status(status).body(error);
     }
 
-    // 3. Обработка любых других непредвиденных ошибок (на всякий случай)
+    // 3. Обработка любых других непредвиденных ошибок
     @ExceptionHandler(Exception.class)
     public ResponseEntity<Map<String, String>> handleGenericException(Exception ex) {
         Map<String, String> error = new HashMap<>();
