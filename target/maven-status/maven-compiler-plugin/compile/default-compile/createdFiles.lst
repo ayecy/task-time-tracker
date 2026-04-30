@@ -11,4 +11,5 @@ com/tasktracker/controller/TaskController.class
 com/tasktracker/exception/TaskNotFoundException.class
 com/tasktracker/service/TaskService.class
 com/tasktracker/mapper/TaskMapper.class
+com/tasktracker/exception/GlobalExceptionHandler.class
 com/tasktracker/mapper/TimeRecordMapper.class
